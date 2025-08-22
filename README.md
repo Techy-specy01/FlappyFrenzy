@@ -24,6 +24,8 @@ Scoring System
 Game Over: Occurs when the bird collides with pipes, ground, or ceiling
 High Score: Track your best performance across sessions
 
+<img width="608" height="800" alt="Image" src="https://github.com/user-attachments/assets/1202c3ad-229c-4ef3-b5a7-36c41b555bb1" />
+
 
 🚀 Installation
 Prerequisites
