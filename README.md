@@ -47,19 +47,33 @@ pip show pygame
 📁 Project Structure
 FLAPPYFRENZY/
 ├── __pycache__/           # Python cache files
+
 │   ├── bird.cpython-313.pyc
+
 │   └── pipe.cpython-313.pyc
+
 ├── assets/                # Game assets
+
 │   ├── bg.png            # Background image
+
 │   ├── birddown.png      # Bird sprite (falling)
+
 │   ├── birdup.png        # Bird sprite (flapping)
+
 │   ├── font.ttf          # Game font
+
 │   ├── ground.png        # Ground texture
+
 │   ├── pipedown.png      # Downward pipe sprite
+
 │   └── pipeup.png        # Upward pipe sprite
+
 ├── bird.py               # Bird class and mechanics
+
 ├── game.py               # Main game loop and logic
+
 └── pipe.py               # Pipe class and generation
+
 
 
 🔧 Technical Details
