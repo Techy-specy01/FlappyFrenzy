@@ -21,18 +21,26 @@ The game features classic Flappy Bird mechanics with smooth animations, real-tim
 ✨Features
 
 Smooth Gameplay: 60 FPS gameplay with fluid bird animations
+
 Dynamic Obstacles: Randomly generated pipe heights for varied difficulty
+
 Real-time Scoring: Live score tracking with visual feedback
+
 Instant Restart: Quick game restart functionality
+
 Collision Detection: Pixel-perfect collision system
+
 Retro Graphics: Classic 2D sprite-based visuals
+
 
 🎯 Game Rules
 Objective
 Navigate the bird through as many pipe pairs as possible to achieve the highest score.
 Scoring System
 +1 Point: Awarded for each pipe pair successfully passed
-Game Over: Occurs when the bird collides with pipes, ground, or ceiling
+
+Game Over: Occurs when the bird collides with pipes, ground
+
 High Score: Track your best performance across sessions
 
 <img width="608" height="800" alt="Image" src="https://github.com/user-attachments/assets/1202c3ad-229c-4ef3-b5a7-36c41b555bb1" />
