@@ -7,8 +7,13 @@ https://github.com/user-attachments/assets/a437d058-94b6-4688-8787-abedae22f3fa
 
 
 
+
 <img width="610" height="801" alt="Image" src="https://github.com/user-attachments/assets/34ea741b-1705-4ba7-89fc-62b70d98cfeb" />
+
+
+
 🎮 Overview
+
 FLAPPYFRENZY is a side-scrolling arcade game where player controls a bird navigating through pairs of green pipes. The objective is to fly as far as possible without
 colliding with pipes or the ground, earning points for each pipe successfully passed.
 The game features classic Flappy Bird mechanics with smooth animations, real-time scoring, and instant restart functionality, all implemented using Python's PYGAME library.
