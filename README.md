@@ -1,6 +1,12 @@
 FLAPPYFRENZY 🐦
 A Python implementation of the classic Flappy Bird game built with Pygame,featuring smooth gameplay mechanics and pixel-perfect collision detection.
 
+
+https://github.com/user-attachments/assets/a437d058-94b6-4688-8787-abedae22f3fa
+
+
+
+
 <img width="610" height="801" alt="Image" src="https://github.com/user-attachments/assets/34ea741b-1705-4ba7-89fc-62b70d98cfeb" />
 🎮 Overview
 FLAPPYFRENZY is a side-scrolling arcade game where player controls a bird navigating through pairs of green pipes. The objective is to fly as far as possible without
